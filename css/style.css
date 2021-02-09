@@ -1,0 +1,23 @@
+.topbar{
+	color: white;
+	background-color:#535D69;
+	width: 100%;
+	height: 30px;
+	border: 2px solid blue;
+	
+}
+.wrapper{
+	height: 90px;
+	width: 100%;
+	background-color: #FFEEF3;
+	border: 2px solid red;
+	overflow: hidden;
+}
+.li{
+	float:right;
+}
+.logo{
+	display: inline;
+	float: left;
+	
+}
